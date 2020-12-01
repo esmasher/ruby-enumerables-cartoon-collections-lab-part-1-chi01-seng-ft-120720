@@ -7,8 +7,8 @@ end
 end
 
 def list_dwarves(array)
- dwarves_array = ["Dopey"]
-dwarves_array.each_with_index do |dwarves|
+
+array.each_with_index do |dwarves|
   puts #{dwarves}
   
   # Use `each_with_index` to enumerate over the provided array
