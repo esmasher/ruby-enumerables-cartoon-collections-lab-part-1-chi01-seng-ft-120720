@@ -6,7 +6,6 @@ def greet_characters(array)
   #
   # Print a custom greeting for each element
 end
-end
 
 #def list_dwarves(array)
  # dwarves_array = ["Gimli", "Thorin", "Balin", "Gloin"]
